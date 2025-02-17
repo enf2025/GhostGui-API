@@ -10,7 +10,7 @@ This Datapack uses an ingame editor to create floating item displays that will s
 It was made with the objective of creating a GUI system which has access to more features than similar systems, such as Chest and Villager GUIs; By giving developers the freedom of creating Menus, Settings, Custom text windows, and many more in an intuitive manner and infinitely customizable.
 
 >[!WARNING]
->While this datapack supports multiplayer, there cannot be more than 1 player with the editor active. Always make sure that only 1 player has it active, or else the editor tools will not work as intended.
+>While this datapack supports multiplayer, there cannot be more than 1 player with the editor active. Always make sure that no more than 1 player has it active, or else the editor tools will not work as intended.
 
 
 # The Editor
