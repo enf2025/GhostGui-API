@@ -1,0 +1,1 @@
+title @s actionbar [{"text": "Right click","color": "aqua"},{"text":" for help","color":"yellow"},{"text":" Left click","color":"gold"},{"text":" to apply from storage (shift for hover text)","color":"yellow"}]

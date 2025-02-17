@@ -1,0 +1,1 @@
+$data modify storage ghost_gui temp.function.text set value '$(function)'

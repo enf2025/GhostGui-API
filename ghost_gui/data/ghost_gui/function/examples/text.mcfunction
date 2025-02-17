@@ -1,0 +1,1 @@
+data modify entity @s text set value '[{"text":"Hello,\\n\\nthis is the example "},{"text":"message","color":"green"}]'

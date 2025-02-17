@@ -1,0 +1,1 @@
+title @s actionbar [{"text": "Right click","color": "aqua"},{"text":" to summon an empty anchor, ","color":"yellow"},{"text":"Left click","color":"gold"},{"text":" to delete anchor","color":"yellow"}]

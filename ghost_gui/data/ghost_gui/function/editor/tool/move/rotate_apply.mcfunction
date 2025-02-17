@@ -1,0 +1,1 @@
+$tp @s ~ ~ ~ ~$(rel_rot_x) ~$(rel_rot_y) 
